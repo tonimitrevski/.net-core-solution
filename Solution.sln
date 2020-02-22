@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{DCC76831-F06
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5FFF2799-42E6-464B-AD59-177A2B1BF6EE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{9C30B887-ACB0-42CC-BC95-8D160E5B75F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Model\Database.csproj", "{9C30B887-ACB0-42CC-BC95-8D160E5B75F5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6C364E9E-2984-4B9C-9F56-EF50715AB2BF}"
 	ProjectSection(SolutionItems) = preProject
